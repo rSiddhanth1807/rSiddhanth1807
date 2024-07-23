@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **App Development and Full Stack Development**
 
-- 🌱 I’m currently learning **React and Swift UI**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **https://www.linkedin.com/in/siddhanth-rana-43646718a/**
 
