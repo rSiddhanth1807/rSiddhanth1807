@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer</h3>
 <img align = "right" alt = "coding" width = "400" src = "https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-- 🔭 I’m currently working on **App Development and Full Stack Development**
+- 🔭 I’m currently working on **Full Stack Development**
 
 - 🌱 I’m currently learning **React**
 
